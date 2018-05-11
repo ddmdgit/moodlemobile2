@@ -4,8 +4,8 @@
   <description>
         Moodle Mobile official app customise by DDMD
     </description>
-  <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+  <author href="http://www.mlframe.com/" email="dolawattha@gmail.com">
+        Mobile Learning in SL
     </author>
   <content src="index.html"/>
   <access origin="*"/>
